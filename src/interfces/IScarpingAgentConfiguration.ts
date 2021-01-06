@@ -1,0 +1,2 @@
+interface IScarpingAgentConfiguration extends IScarpingAgent {
+}
